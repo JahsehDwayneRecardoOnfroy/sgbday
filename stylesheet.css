@@ -113,7 +113,7 @@ body {
 }
 
 
-.bulb {
+/*.bulb {
 	width: 50px;
 	height: 50px;
 	margin: auto;
@@ -133,9 +133,9 @@ body {
 	-o-animation: bulb_glow_yellow linear 5s;
 	-ms-animation: bulb_glow_yellow linear 5s;
 	animation: bulb_glow_yellow linear 5s;
-}
+}*/
 
-@-webkit-keyframes bulb_glow_yellow {
+/*@-webkit-keyframes bulb_glow_yellow {
 	0%{
 		background-image: url('bulb.png');
 		opacity: 0;
@@ -573,11 +573,11 @@ body {
 		background-image: url('bulb_orange.png');
 		opacity: 1;
 	}
-}
+}*/
 
 
 /*after music*/
-.bulb-glow-yellow-after {
+/*.bulb-glow-yellow-after {
 	background-image: url('bulb_yellow.png');
 	-webkit-animation: bulb_glow_yellow_after linear 1s infinite;
 	-moz-animation: bulb_glow_yellow_after linear 1s infinite;
@@ -963,7 +963,7 @@ body {
 	100%{
 		background-image: url('bulb.png');
 	}
-}
+}*/
 audio {
 	display: none;
 }
